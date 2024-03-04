@@ -1,0 +1,10 @@
+Package: Geometric.Sampling
+Type: Package
+Title: Implement sampling designs based on a geometric approach  
+Version: 0.1.0
+Author: Bardia Panahbehagh
+Maintainer: Bardia Panahbehagh <panahbehagh@khu.ac.ir>
+Description: Here based on a geometric approach, presented by Panahbehagh 2023, it is possible to implement many of finite population sampling designs.
+License: 
+Encoding: UTF-8
+LazyData: true
